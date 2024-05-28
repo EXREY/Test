@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :3: for Floccus bookmark sync browser extension -->
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://www.h5galgame.org/" id="308">
   <title>H5游戏论坛-H5Galgame综合资源论坛 有爱就有H5 - Powered by Discuz!</title>
@@ -11,5 +11,8 @@
 </bookmark>
 <bookmark href="https://docs.linkwarden.app/self-hosting/sso-oauth/" id="309">
   <title>Linkwarden</title>
+</bookmark>
+<bookmark href="https://github.com/EXREY/Test/blob/main/bookmarks.xbel" id="4">
+  <title>Test/bookmarks.xbel at main · EXREY/Test</title>
 </bookmark>
 </xbel>
